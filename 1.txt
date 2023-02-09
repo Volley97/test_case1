@@ -8,3 +8,5 @@ TEst case2
 1 Step to reproduce
 
 2 Step to reproduce
+
+3 Step to fix it
